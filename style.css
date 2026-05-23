@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color:  #ECEAEA;
+    color: #4A0007;
+    min-height: 100vh;
+}
+.container{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+.headingContainer{
+    font-size: 54px;
+    font: bold;
+    position: absolute;
+    left: 34%;
+}
+.logo{
+    margin-top: 5px;
+    margin-left: 40px;
+    font-size: 90px;
+    color: #4A0007;
+}
+.text{
+    size: 24px;
+}
+.heading1{
+    color: #a1a0a0;
+}
+
+.headingContainer2{
+    font-size: 54px;
+    font: bold;
+    position: absolute;
+    top: 23%;
+    left: 46%;
+}
+.para{
+font-size: 20px;
+color: #4A0007;
+position: absolute;
+top: 38%;
+left: 46%;
+}
+.text-left{
+    font-size: 24px;
+    color: #4A0007;
+    position: absolute;
+    top: 65%;
+    left: 40px;
+    font: bold;
+}
+.img-container{
+    display: flex;
+    gap: 5px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 54%;
+    left: 45%;
+}
+.model{
+border-radius: 15px;
+}
+.footertext{
+    text-align: center;
+    position: absolute;
+    top: 83%;
+    left: 50%;
+    font-size: 30px;
+   font-weight: bold;
+}
+.text-buttom{
+    color: #4A0007;
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+    top: 88%;
+    left: 45%;
+    margin-top: 20px;
+}
+.right{
+    position: absolute;
+    top: 5px;
+    right: 40px;
+    font: bold;
+}
